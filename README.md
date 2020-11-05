@@ -1,6 +1,6 @@
 # world_time
 
-Shows world time
+Shows world time of specific countries. this basic project is followed from a tutorial by net ninja. The project is uploaded only for backup and reviewing the basic concepts of flutter and nothing else.
 
 ## Getting Started
 
